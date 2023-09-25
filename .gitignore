@@ -22,3 +22,7 @@ bin/
 # vweb and database
 *.db
 *.js
+
+# ignore generated files
+
+VEconfig.json
